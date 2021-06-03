@@ -8,4 +8,3 @@ Config { font = "xft:Hasklig:size=9"
         , alignSep = "}{"
         , template = " %UnsafeStdinReader% }{<fc=grey>%date%</fc> "
         }
-
